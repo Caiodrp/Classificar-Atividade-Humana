@@ -5,4 +5,5 @@ plotly==5.15.0
 scikit-learn==1.0.2
 joblib==1.1.0
 pycaret==3.0.4
-
+numpy==1.21.6
+chardet==4.0.0
