@@ -1,8 +1,8 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
+# from sklearn.preprocessing import StandardScaler
+# from sklearn.decomposition import PCA
 import requests
 import joblib
 import io
