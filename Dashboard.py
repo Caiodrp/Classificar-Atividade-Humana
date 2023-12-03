@@ -8,7 +8,7 @@ import joblib
 import io
 from pycaret.classification import predict_model
 
-@st.cache_resource
+@st.cache_data
 def load_data():
     df = pd.read_csv('https://github.com/Caiodrp/Classificar-Atividade-Humana/raw/main/df_train.csv')
     return df
