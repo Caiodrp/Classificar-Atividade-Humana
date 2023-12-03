@@ -1,0 +1,206 @@
+2023-12-02 12:22:45,094:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-02 12:22:45,094:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-02 12:22:45,094:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-02 12:22:45,094:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-02 12:22:47,017:INFO:Initializing predict_model()
+2023-12-02 12:22:47,017:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79BB898A0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B79BB90EE0>)
+2023-12-02 12:22:47,018:INFO:Checking exceptions
+2023-12-02 12:22:47,018:INFO:Preloading libraries
+2023-12-02 12:22:47,018:INFO:Set up data.
+2023-12-02 12:22:47,238:INFO:Set up index.
+2023-12-02 12:26:42,673:INFO:Initializing predict_model()
+2023-12-02 12:26:42,674:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B799F743A0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B79A3C2200>)
+2023-12-02 12:26:42,674:INFO:Checking exceptions
+2023-12-02 12:26:42,674:INFO:Preloading libraries
+2023-12-02 12:26:42,674:INFO:Set up data.
+2023-12-02 12:26:42,870:INFO:Set up index.
+2023-12-02 12:27:11,094:INFO:Initializing predict_model()
+2023-12-02 12:27:11,094:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79C17A5F0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B795181750>)
+2023-12-02 12:27:11,094:INFO:Checking exceptions
+2023-12-02 12:27:11,095:INFO:Preloading libraries
+2023-12-02 12:27:11,095:INFO:Set up data.
+2023-12-02 12:27:11,274:INFO:Set up index.
+2023-12-02 12:32:18,334:INFO:Initializing predict_model()
+2023-12-02 12:32:18,334:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79BE98250>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B798BAFEB0>)
+2023-12-02 12:32:18,334:INFO:Checking exceptions
+2023-12-02 12:32:18,334:INFO:Preloading libraries
+2023-12-02 12:32:18,334:INFO:Set up data.
+2023-12-02 12:32:18,503:INFO:Set up index.
+2023-12-02 12:40:06,636:INFO:Initializing predict_model()
+2023-12-02 12:40:06,637:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79BB88F70>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B79BF16C20>)
+2023-12-02 12:40:06,637:INFO:Checking exceptions
+2023-12-02 12:40:06,637:INFO:Preloading libraries
+2023-12-02 12:40:06,637:INFO:Set up data.
+2023-12-02 12:40:06,835:INFO:Set up index.
+2023-12-02 12:40:47,262:INFO:Initializing predict_model()
+2023-12-02 12:40:47,262:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79C2E8250>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B79A3C0940>)
+2023-12-02 12:40:47,262:INFO:Checking exceptions
+2023-12-02 12:40:47,262:INFO:Preloading libraries
+2023-12-02 12:40:47,263:INFO:Set up data.
+2023-12-02 12:40:47,467:INFO:Set up index.
+2023-12-02 12:45:34,651:INFO:Initializing predict_model()
+2023-12-02 12:45:34,651:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79C1A5B40>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B79BF179A0>)
+2023-12-02 12:45:34,651:INFO:Checking exceptions
+2023-12-02 12:45:34,651:INFO:Preloading libraries
+2023-12-02 12:45:34,652:INFO:Set up data.
+2023-12-02 12:45:34,857:INFO:Set up index.
+2023-12-02 12:46:10,881:INFO:Initializing predict_model()
+2023-12-02 12:46:10,881:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79BE99360>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B79A3C0670>)
+2023-12-02 12:46:10,881:INFO:Checking exceptions
+2023-12-02 12:46:10,881:INFO:Preloading libraries
+2023-12-02 12:46:10,882:INFO:Set up data.
+2023-12-02 12:46:11,077:INFO:Set up index.
+2023-12-02 12:49:20,712:INFO:Initializing predict_model()
+2023-12-02 12:49:20,712:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B79C1A7A00>, estimator=Pipeline(memory=FastMemory(location=C:\Users\user\AppData\Local\Temp\joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['CP1', 'CP2', 'CP3', 'CP4', 'CP5',
+                                             'CP6', 'CP7', 'CP8', 'CP9', 'CP10',
+                                             'CP11', 'CP12', 'CP13', 'CP14',
+                                             'CP15', 'CP16', 'CP17', 'CP18',
+                                             'CP19', 'CP20', 'CP21', 'CP22',
+                                             'CP23', 'CP24', 'CP25', 'CP26',
+                                             'CP27', 'CP28', 'CP29', 'CP30', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=484))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B799317520>)
+2023-12-02 12:49:20,712:INFO:Checking exceptions
+2023-12-02 12:49:20,712:INFO:Preloading libraries
+2023-12-02 12:49:20,713:INFO:Set up data.
+2023-12-02 12:49:20,925:INFO:Set up index.
